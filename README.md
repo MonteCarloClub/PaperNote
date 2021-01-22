@@ -6,16 +6,26 @@
 用来存储我们读过的论文及笔记、学术会议记录等。
 
 `papers`
-目录存储论文原文
+目录存储论文原文，根据类别整理。
 
 `notes`
-目录存储笔记，建议写成Markdown格式
+目录存储笔记，建议写成Markdown格式。
 
 其他目录根据需要创建。
 
 以下内容请分类整理，例如物流算法、密码学、……
 
-## 一、物流算法
+## 一、密码学、算法与复杂性
+
+[Goyal V , Pandey O , Sahai A , et al. Attribute-based encryption for fine-grained access control of encrypted data[C]// Proceedings of the 13th ACM Conference on Computer and Communications Security, CCS 2006, Alexandria, VA, USA, Ioctober 30 - November 3, 2006. ACM, 2006.](https://github.com/XINKINGBO-1206/papernote/blob/main/papers/%e5%af%86%e7%a0%81%e5%ad%a6%e3%80%81%e7%ae%97%e6%b3%95%e4%b8%8e%e5%a4%8d%e6%9d%82%e6%80%a7/Attribute-Based%20Encryption%20for%20Fine-Grained%20Access%20Control%20of%20Encrypted%20Data.pdf)
+
+[冯登国, 陈成. 属性密码学研究[J]. 密码学报, 2014(01):10-21.](https://github.com/XINKINGBO-1206/papernote/blob/main/papers/%e5%af%86%e7%a0%81%e5%ad%a6%e3%80%81%e7%ae%97%e6%b3%95%e4%b8%8e%e5%a4%8d%e6%9d%82%e6%80%a7/%e5%b1%9e%e6%80%a7%e5%af%86%e7%a0%81%e5%ad%a6%e7%a0%94%e7%a9%b6.pdf)
+
+[Sahai A , Seyalioglu H , Waters B . Dynamic Credentials and Ciphertext Delegation for Attribute-Based Encryption[C]// Annual Cryptology Conference. Springer, Berlin, Heidelberg, 2012.](https://github.com/XINKINGBO-1206/papernote/blob/main/papers/%e5%af%86%e7%a0%81%e5%ad%a6%e3%80%81%e7%ae%97%e6%b3%95%e4%b8%8e%e5%a4%8d%e6%9d%82%e6%80%a7/Dynamic%20Credentials%20and%20Ciphertext%20Delegation%20for%20Attribute-Based%20Encryption.pdf)
+
+[Lewko A , Waters B . Decentralizing Attribute-Based Encryption[C]// Annual International Conference on the Theory and Applications of Cryptographic Techniques. Springer, Berlin, Heidelberg, 2011.](https://github.com/XINKINGBO-1206/papernote/blob/main/papers/%e5%af%86%e7%a0%81%e5%ad%a6%e3%80%81%e7%ae%97%e6%b3%95%e4%b8%8e%e5%a4%8d%e6%9d%82%e6%80%a7/Decentralizing%20Attribute-Based%20Encryption.pdf)
+
+## 二、物流算法
 [中国物流供应链“零的突破”！阿里路径规划算法入围运筹学“奥斯卡”](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247565751&idx=1&sn=6892753040f4f948ae39ecd6ed569cfe&chksm=e8d176c5dfa6ffd3fc99a70916f7eae699dab419049aa40e4fac46bc9b06bf6902f79337d517&mpshare=1&scene=1&srcid=0116YNmmARGFgbuyU8rU8byI&sharer_sharetime=1610850966931&sharer_shareid=cb3e32726918e6e934b66dd9f2d1cc87&key=6735c73474262b5aeb101293d48d4fd8a57bcfa09e5d01d522c620ba057fcd194edc69f18ca1b5adb7056506846eb302e9cc4071c33d7f6d81f27f53cb81f82d74af8c303638f08dc986594e327823dee1cbb416b76ecca93393d18365fcee47d39e0e104698d299d93be51cfa66ea098e68c7eeebe155abfea3bca9f9f57111&ascene=1&uin=MjcxNDc4OTYxMw%3D%3D&devicetype=Windows+7&version=63000039&lang=zh_CN&exportkey=AyPWDmKvQvxOWvroVOPh4Og%3D&pass_ticket=UFZdDd6G5FuE%2BdCFfXKOzwONFWo89VKwLnw1%2B9N11gQLVPVA0t%2BZ2owYp91dCnGm&wx_header=0)
 
 [中国供应链首次！京东无人仓算法入围全球工业“诺贝尔”奖](https://mp.weixin.qq.com/s?__biz=MjM5MjYyMTA2Nw==&mid=2649840610&idx=2&sn=771068f380b0a4d418440da1cbe95f6b&chksm=bea68c8689d1059079cdcf17a140ce42c1ff7ba84281b2528075f37f279caf7eeb0a2ed52ca4&mpshare=1&scene=1&srcid=0115qIbqhqX3ls83daCAUbQb&sharer_sharetime=1610858701639&sharer_shareid=cb3e32726918e6e934b66dd9f2d1cc87&key=2a6c777690db2e4dd82fa9cc15aaec5e26d787d978b120591fa43c407ef775daae0eb7872335cc795058c9ece423863ea822ecb0cf3f574218b6299dde4fbe8473d7ae18fdb1545af0f7aadb19a799ffc939021e5b1e68318cbeba28c0e6d17be5ad8d8c142f8416b13fadd7fb6f4da61b631144593d2185f7b983acf2f8f7be&ascene=1&uin=MjcxNDc4OTYxMw%3D%3D&devicetype=Windows+7&version=63000039&lang=zh_CN&exportkey=A1ZQlc9O0wOLSqIAZ15qtpQ%3D&pass_ticket=UFZdDd6G5FuE%2BdCFfXKOzwONFWo89VKwLnw1%2B9N11gQLVPVA0t%2BZ2owYp91dCnGm&wx_header=0)
