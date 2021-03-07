@@ -29,7 +29,11 @@
 
 [Goldreich O . A Short Tutorial of Zero-Knowledge[J]. Cryptology and Information Security Series, 2013, 10:28-60.](https://github.com/XINKINGBO-1206/PaperNote/blob/zhang/papers/%E9%9B%B6%E7%9F%A5%E8%AF%86%E8%AF%81%E6%98%8E/A%20Short%20Tutorial%20of%20Zero-%20Knowledge.pdf)
 
-## 三、物流算法
+## 三、区块链+物联网
+
+[Ourad A Z , Belgacem B , Salah K . Using Blockchain for IOT Access Control and Authentication Management[J]. 2018.](https://github.com/XINKINGBO-1206/PaperNote/blob/zhang/papers/%E5%8C%BA%E5%9D%97%E9%93%BE+%E7%89%A9%E8%81%94%E7%BD%91/Using%20Blockchain%20for%20IOT%20Access%20Control%20and%20Authentication%20Management.pdf)
+
+## 四、物流算法
 [中国物流供应链“零的突破”！阿里路径规划算法入围运筹学“奥斯卡”](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247565751&idx=1&sn=6892753040f4f948ae39ecd6ed569cfe&chksm=e8d176c5dfa6ffd3fc99a70916f7eae699dab419049aa40e4fac46bc9b06bf6902f79337d517&mpshare=1&scene=1&srcid=0116YNmmARGFgbuyU8rU8byI&sharer_sharetime=1610850966931&sharer_shareid=cb3e32726918e6e934b66dd9f2d1cc87&key=6735c73474262b5aeb101293d48d4fd8a57bcfa09e5d01d522c620ba057fcd194edc69f18ca1b5adb7056506846eb302e9cc4071c33d7f6d81f27f53cb81f82d74af8c303638f08dc986594e327823dee1cbb416b76ecca93393d18365fcee47d39e0e104698d299d93be51cfa66ea098e68c7eeebe155abfea3bca9f9f57111&ascene=1&uin=MjcxNDc4OTYxMw%3D%3D&devicetype=Windows+7&version=63000039&lang=zh_CN&exportkey=AyPWDmKvQvxOWvroVOPh4Og%3D&pass_ticket=UFZdDd6G5FuE%2BdCFfXKOzwONFWo89VKwLnw1%2B9N11gQLVPVA0t%2BZ2owYp91dCnGm&wx_header=0)
 
 [中国供应链首次！京东无人仓算法入围全球工业“诺贝尔”奖](https://mp.weixin.qq.com/s?__biz=MjM5MjYyMTA2Nw==&mid=2649840610&idx=2&sn=771068f380b0a4d418440da1cbe95f6b&chksm=bea68c8689d1059079cdcf17a140ce42c1ff7ba84281b2528075f37f279caf7eeb0a2ed52ca4&mpshare=1&scene=1&srcid=0115qIbqhqX3ls83daCAUbQb&sharer_sharetime=1610858701639&sharer_shareid=cb3e32726918e6e934b66dd9f2d1cc87&key=2a6c777690db2e4dd82fa9cc15aaec5e26d787d978b120591fa43c407ef775daae0eb7872335cc795058c9ece423863ea822ecb0cf3f574218b6299dde4fbe8473d7ae18fdb1545af0f7aadb19a799ffc939021e5b1e68318cbeba28c0e6d17be5ad8d8c142f8416b13fadd7fb6f4da61b631144593d2185f7b983acf2f8f7be&ascene=1&uin=MjcxNDc4OTYxMw%3D%3D&devicetype=Windows+7&version=63000039&lang=zh_CN&exportkey=A1ZQlc9O0wOLSqIAZ15qtpQ%3D&pass_ticket=UFZdDd6G5FuE%2BdCFfXKOzwONFWo89VKwLnw1%2B9N11gQLVPVA0t%2BZ2owYp91dCnGm&wx_header=0)
