@@ -90,5 +90,31 @@
 	挖矿和交易是写死在节点中的。挖矿的主要目的是根据出块时间做节点网络健康状态监控；交易是为了模拟现实世界中物联网终端传输数据的功能。\textbf{写死的交易体意味着物联网边缘设备发送和接收的数据长度是固定的。}
 \end{frame}
 
-	
+\begin{frame}{时间同步机制——节点唯一标识}
+	论文在这里使用了身份基加密，实际上给每个物联网节点分发了一个密钥，即\texttt{ENODE}。\\
+	IoT blockchain nodes have unique “ENODE” values and connect using these values. The “ENODE” value consists of a public key, an IPv4 address, and a port number.\\
+	\texttt{ENODE} = ENODE(\texttt{pubKey}, \texttt{IP}, \texttt{port})
+\end{frame}
+
+\begin{frame}{时间同步机制——中心化思想}
+	物联网边缘设备一般缺少实时时钟（Real-Time Clock），它们的内部时钟会在启动是重置，这要求物联网边缘设备上链和启动时收到时间广播。\\
+	广播虽然是无连接的，但是它有明确的目标，需要确保对应设备收到了完整的广播内容且正常解密。
+	\begin{itemize}
+		\item 授时服务器维护\texttt{IP}和\texttt{ENODE}，定期通过广播更新物联网边缘设备的内部\texttt{IP}；
+		\item 篡改密钥涉及篡改\texttt{IP}，两者是一一映射的，这样的行为容易被捕捉。
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{时间同步机制——算法 (1)}
+	\includegraphics[width=0.618\linewidth]{Assets/算法2}\\
+	通过\texttt{IP}建立连接；分发密钥，通过连接正确性确保不被篡改；广播时间密文
+\end{frame}
+
+\begin{frame}{时间同步机制——算法 (2)}
+	\begin{itemize}
+		\item 算法是暴力的，未做时间复杂度层面的优化。授时服务器发送消息是平方时间复杂度，设备接收消息是线性时间复杂度；
+		\item 为每一个设备定制密钥和时间密文的方式很难适应物联网的快速增长；
+		\item 我们可以维持时间密文不变，预先定义解密组策略（例如基于属性密码设计每个节点的安全策略），这样可以把时间字符串广播的收发双方都优化成常数时间复杂度。
+	\end{itemize}
+\end{frame}
 \end{document}
