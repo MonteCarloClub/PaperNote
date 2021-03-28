@@ -141,4 +141,21 @@
 \begin{frame}{实验数据 (6)——网络延迟监控}
 	\includegraphics[width=\linewidth]{Assets/图8}
 \end{frame}
+
+\begin{frame}{本文特色}
+	\begin{itemize}
+		\item 实验系统搭建合理，我们在设计区块链+物联网的实验时，一般选用3—4台设备；
+		\item 运用PoA，减轻了物联网边缘设备的负载，通过节点挖矿时间了解网络连接状态；
+		\item 授时中心的设计思路很简洁，分布式授时远比集中式授时复杂，且面临针对分布式同步机制的攻击；
+		\item 在设计基于区块链的物联网解决方案时，Wi-Fi连接的中断问题是一个系统性挑战，它会导致非常显著的性能损失。
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{本文缺陷}
+	\begin{itemize}
+		\item 缺少算法复杂度分析，缺少图表分析（描述文字太多）；
+		\item 授时中心有很大的改进空间，作为原型是足够的，安全组策略在面临海量设备应用问题时是必然需求，可以结合属性密码设计；
+		\item 交易灵活性不足，交易是以固定的频率发出的，可以设计大量随机交易进一步测试系统稳定性，目前除了Wi-Fi连接中断，论文未提到其他性能瓶颈。
+	\end{itemize}
+\end{frame}
 \end{document}
