@@ -25,6 +25,8 @@
 
 [Lewko A , Waters B . Decentralizing Attribute-Based Encryption[C]// Annual International Conference on the Theory and Applications of Cryptographic Techniques. Springer, Berlin, Heidelberg, 2011.](https://github.com/XINKINGBO-1206/papernote/blob/main/papers/%e5%af%86%e7%a0%81%e5%ad%a6%e3%80%81%e7%ae%97%e6%b3%95%e4%b8%8e%e5%a4%8d%e6%9d%82%e6%80%a7/Decentralizing%20Attribute-Based%20Encryption.pdf)
 
+[Ding S ,  Zhao Y ,  Liu Y . Efficient Traceable Attribute-Based Signature[C]// IEEE International Conference on Trust. IEEE, 2015.](https://github.com/XINKINGBO-1206/papernote/blob/main/papers/%e5%af%86%e7%a0%81%e5%ad%a6%e3%80%81%e7%ae%97%e6%b3%95%e4%b8%8e%e5%a4%8d%e6%9d%82%e6%80%a7/Efficient%20Traceable%20Attribute-Based%20Signature.pdf)
+
 ## 二、零知识证明
 
 [Goldreich O . A Short Tutorial of Zero-Knowledge[J]. Cryptology and Information Security Series, 2013, 10:28-60.](https://github.com/XINKINGBO-1206/PaperNote/blob/main/papers/%E9%9B%B6%E7%9F%A5%E8%AF%86%E8%AF%81%E6%98%8E/A%20Short%20Tutorial%20of%20Zero-%20Knowledge.pdf)
