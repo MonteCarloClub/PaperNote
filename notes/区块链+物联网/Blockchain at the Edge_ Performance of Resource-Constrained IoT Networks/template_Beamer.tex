@@ -55,4 +55,40 @@
 		\item 作者提出了一种可以应用在区块链中的中心化时间同步机制，通过传统的授时方案实现无内部时钟设备的时间设置和同步，这样的时间字符串是密文传输的。
 	\end{itemize}
 \end{frame}
+
+\begin{frame}{基于区块链的物联网授时服务架构}
+	\includegraphics[width=\linewidth]{Assets/图2}
+\end{frame}
+
+\begin{frame}{节点资源列表}
+	\includegraphics[width=\linewidth]{Assets/表1}
+\end{frame}
+
+\begin{frame}{以太坊私链设置}
+	\includegraphics[width=\linewidth]{Assets/表2}
+\end{frame}
+
+\begin{frame}{节点的链上动作——交易和挖矿}
+	论文要求物联网边缘设备节点同样具备发起交易和挖矿的功能。
+	\begin{itemize}
+		\item 通过极低的难度（difficulty），在大部分节点计算能力匮乏的情况下控制了5s的出块时间；
+		\item 使用PoA（权威共识），由权威节点验证交易并提供同步服务，记账仍然是分布式的，它的性能非常高。
+		PoA在私链广泛，它是PoS（权益证明）的变体，参与交易验证的抵押物从数字资产变成了身份。它的性能是三种共识机制中最高的，验证节点的权威身份无法挑战。
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{为什么PoA共识机制下也需要全体节点参与挖矿？}
+	\begin{itemize}
+		\item 实验链使用了PoA机制，实验中，节点仍然需要挖矿。既然物联网边缘设备的计算资源匮乏，验证节点（Node-3，服务器）可以成为唯一矿工且拥有完全记账权，为什么每个节点还是需要挖矿？\\
+		Irrespective of a node’s processing capabilities, the nodes are self-sufficient to carry out \underline{mining} operations on their own ... This drop in connection results in a significant increase in mining times at the affected nodes.
+		\item 节点挖矿难度很低，不需要奖励。
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{节点行为}
+	\includegraphics[width=\linewidth]{Assets/算法1}
+	挖矿和交易是写死在节点中的。挖矿的主要目的是根据出块时间做节点网络健康状态监控；交易是为了模拟现实世界中物联网终端传输数据的功能。\textbf{写死的交易体意味着物联网边缘设备发送和接收的数据长度是固定的。}
+\end{frame}
+
+	
 \end{document}
