@@ -27,11 +27,13 @@
 
 ## 二、零知识证明
 
-[Goldreich O . A Short Tutorial of Zero-Knowledge[J]. Cryptology and Information Security Series, 2013, 10:28-60.](https://github.com/XINKINGBO-1206/PaperNote/blob/zhang/papers/%E9%9B%B6%E7%9F%A5%E8%AF%86%E8%AF%81%E6%98%8E/A%20Short%20Tutorial%20of%20Zero-%20Knowledge.pdf)
+[Goldreich O . A Short Tutorial of Zero-Knowledge[J]. Cryptology and Information Security Series, 2013, 10:28-60.](https://github.com/XINKINGBO-1206/PaperNote/blob/main/papers/%E9%9B%B6%E7%9F%A5%E8%AF%86%E8%AF%81%E6%98%8E/A%20Short%20Tutorial%20of%20Zero-%20Knowledge.pdf)
 
 ## 三、区块链+物联网
 
-[Ourad A Z , Belgacem B , Salah K . Using Blockchain for IOT Access Control and Authentication Management[J]. 2018.](https://github.com/XINKINGBO-1206/PaperNote/blob/zhang/papers/%E5%8C%BA%E5%9D%97%E9%93%BE+%E7%89%A9%E8%81%94%E7%BD%91/Using%20Blockchain%20for%20IOT%20Access%20Control%20and%20Authentication%20Management.pdf)
+[Ourad A Z , Belgacem B , Salah K . Using Blockchain for IOT Access Control and Authentication Management[J]. 2018.](https://github.com/XINKINGBO-1206/PaperNote/blob/main/papers/%E5%8C%BA%E5%9D%97%E9%93%BE+%E7%89%A9%E8%81%94%E7%BD%91/Using%20Blockchain%20for%20IOT%20Access%20Control%20and%20Authentication%20Management.pdf)
+
+[Misra S ,  Mukherjee A ,  Roy A , et al. Blockchain at the Edge: Performance of Resource-Constrained IoT Networks[J]. IEEE Transactions on Parallel and Distributed Systems, 2020, 32(1):174-183.](https://github.com/XINKINGBO-1206/PaperNote/blob/main/papers/%E5%8C%BA%E5%9D%97%E9%93%BE+%E7%89%A9%E8%81%94%E7%BD%91/Blockchain%20at%20the%20Edge:%20Performance%20of%20Resource-Constrained%20IoT%20Networks.pdf)
 
 ## 四、物流算法
 [中国物流供应链“零的突破”！阿里路径规划算法入围运筹学“奥斯卡”](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247565751&idx=1&sn=6892753040f4f948ae39ecd6ed569cfe&chksm=e8d176c5dfa6ffd3fc99a70916f7eae699dab419049aa40e4fac46bc9b06bf6902f79337d517&mpshare=1&scene=1&srcid=0116YNmmARGFgbuyU8rU8byI&sharer_sharetime=1610850966931&sharer_shareid=cb3e32726918e6e934b66dd9f2d1cc87&key=6735c73474262b5aeb101293d48d4fd8a57bcfa09e5d01d522c620ba057fcd194edc69f18ca1b5adb7056506846eb302e9cc4071c33d7f6d81f27f53cb81f82d74af8c303638f08dc986594e327823dee1cbb416b76ecca93393d18365fcee47d39e0e104698d299d93be51cfa66ea098e68c7eeebe155abfea3bca9f9f57111&ascene=1&uin=MjcxNDc4OTYxMw%3D%3D&devicetype=Windows+7&version=63000039&lang=zh_CN&exportkey=AyPWDmKvQvxOWvroVOPh4Og%3D&pass_ticket=UFZdDd6G5FuE%2BdCFfXKOzwONFWo89VKwLnw1%2B9N11gQLVPVA0t%2BZ2owYp91dCnGm&wx_header=0)
