@@ -44,6 +44,8 @@
 ## 四、区块链交易
 [Naumenko G , Maxwell G , Wuille P , et al. Erlay: Efficient Transaction Relay for Bitcoin[C]. Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security, 2019:817–831.](https://github.com/XINKINGBO-1206/PaperNote/blob/main/papers/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%BA%A4%E6%98%93/Erlay-%20Efficient%20Transaction%20Relay%20for%20Bitcoin.pdf)
 
+[Karl W , Loris D , Kari Kostiainen , et al. Bitcontracts: Supporting Smart Contracts in Legacy Blockchains[C]. The Network and Distributed System Security Symposium (NDSS) 2021. ](https://github.com/XINKINGBO-1206/PaperNote/blob/main/papers/区块链交易/Bitcontracts-%20Supporting%20Smart%20Contracts%20in%20Legacy%20Blockchains.pdf)
+
 ## 五、分布式系统安全
 [Guo Y ,  Pass R ,  Shi E . Synchronous, with a Chance of Partition Tolerance[J]. Springer, Cham, 2019.](https://github.com/XINKINGBO-1206/PaperNote/blob/main/papers/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E7%BB%9F%E5%AE%89%E5%85%A8/Synchronous,%20with%20a%20Chance%20of%20Partition%20Tolerance.pdf)
 
