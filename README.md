@@ -46,6 +46,8 @@
 
 [Karl W , Loris D , Kari Kostiainen , et al. Bitcontracts: Supporting Smart Contracts in Legacy Blockchains[C]. The Network and Distributed System Security Symposium (NDSS) 2021. ](https://github.com/XINKINGBO-1206/PaperNote/blob/main/papers/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%BA%A4%E6%98%93/Bitcontracts-%20Supporting%20Smart%20Contracts%20in%20Legacy%20Blockchains.pdf)
 
+[Graphene- Efficient Interactive Set Reconciliation Applied to Blockchain](/papers/%E5%8C%BA%E5%9D%97%E9%93%BE%E4%BA%A4%E6%98%93/Graphene-%20Efficient%20Interactive%20Set%20Reconciliation%20Applied%20to%20Blockchain.pdf)
+
 ## 五、跨链操作
 [Zhuotao Liu, Yangxi Xiang, Jian Shi, et al. HyperService: Interoperability and Programmability Across Heterogeneous Blockchains[C]. CCS, 2019:817–831.](https://github.com/XINKINGBO-1206/PaperNote/blob/main/papers/%E8%B7%A8%E9%93%BE%E6%93%8D%E4%BD%9C/HyperService_%20Interoperability%20and%20Programmability%20Across%20Heterogeneous%20Blockchains.pdf)
 
@@ -58,3 +60,7 @@
 [中国供应链首次！京东无人仓算法入围全球工业“诺贝尔”奖](https://mp.weixin.qq.com/s?__biz=MjM5MjYyMTA2Nw==&mid=2649840610&idx=2&sn=771068f380b0a4d418440da1cbe95f6b&chksm=bea68c8689d1059079cdcf17a140ce42c1ff7ba84281b2528075f37f279caf7eeb0a2ed52ca4&mpshare=1&scene=1&srcid=0115qIbqhqX3ls83daCAUbQb&sharer_sharetime=1610858701639&sharer_shareid=cb3e32726918e6e934b66dd9f2d1cc87&key=2a6c777690db2e4dd82fa9cc15aaec5e26d787d978b120591fa43c407ef775daae0eb7872335cc795058c9ece423863ea822ecb0cf3f574218b6299dde4fbe8473d7ae18fdb1545af0f7aadb19a799ffc939021e5b1e68318cbeba28c0e6d17be5ad8d8c142f8416b13fadd7fb6f4da61b631144593d2185f7b983acf2f8f7be&ascene=1&uin=MjcxNDc4OTYxMw%3D%3D&devicetype=Windows+7&version=63000039&lang=zh_CN&exportkey=A1ZQlc9O0wOLSqIAZ15qtpQ%3D&pass_ticket=UFZdDd6G5FuE%2BdCFfXKOzwONFWo89VKwLnw1%2B9N11gQLVPVA0t%2BZ2owYp91dCnGm&wx_header=0)
 
 [联想智能生产规划系统入围全球运筹学 “奥斯卡”大奖](https://mp.weixin.qq.com/s?__biz=MzI0NzYyNzczNQ==&mid=2247486684&idx=1&sn=c9b32f1d5faa0cb7d2bf764d784d1a62&chksm=e9ac6664dedbef724d068fe63ecde49252baafe015949e6003de50856be45cf8174ed4dafecb&mpshare=1&scene=1&srcid=0115XfAEUqOXOpJDiTSBM0uF&sharer_sharetime=1610858736657&sharer_shareid=cb3e32726918e6e934b66dd9f2d1cc87&key=2a6c777690db2e4d233fc5e4c01418b23eed36677becf4795ccb41ccc985a71944e60365678063a361705d72f3c39b92369d5b933d5a7f351a1914e44aa3a4f3ce5e206ff80fe6db57ef4358ee2e0cd999372ec4719648115d884bd87094e2126e884074a3abf3e8439950ae2cce7bb3436a83fa1673e04b3eb46c4f02e03df2&ascene=1&uin=MjcxNDc4OTYxMw%3D%3D&devicetype=Windows+7&version=63000039&lang=zh_CN&exportkey=A7HNIHr0u%2Fw9dyKSQEFw05k%3D&pass_ticket=UFZdDd6G5FuE%2BdCFfXKOzwONFWo89VKwLnw1%2B9N11gQLVPVA0t%2BZ2owYp91dCnGm&wx_header=0)
+
+## 八、区块链的扩展性
+
+[Towards Scaling Blockchain Systems via Sharding](/papers/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%89%A9%E5%B1%95%E6%80%A7/Towards%20Scaling%20Blockchain%20Systems%20via%20Sharding.pdf)
