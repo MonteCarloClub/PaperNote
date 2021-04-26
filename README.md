@@ -19,17 +19,17 @@
 
 以下内容请分类整理，例如物流算法、密码学、……
 
-## 一、密码学、算法与复杂性
+## 一、基于属性的加密
 
-[Goyal V , Pandey O , Sahai A , et al. Attribute-based encryption for fine-grained access control of encrypted data[C]// Proceedings of the 13th ACM Conference on Computer and Communications Security, CCS 2006, Alexandria, VA, USA, Ioctober 30 - November 3, 2006. ACM, 2006.](https://github.com/XINKINGBO-1206/papernote/blob/main/papers/%e5%af%86%e7%a0%81%e5%ad%a6%e3%80%81%e7%ae%97%e6%b3%95%e4%b8%8e%e5%a4%8d%e6%9d%82%e6%80%a7/Attribute-Based%20Encryption%20for%20Fine-Grained%20Access%20Control%20of%20Encrypted%20Data.pdf)
+[Goyal V , Pandey O , Sahai A , et al. Attribute-based encryption for fine-grained access control of encrypted data[C]// Proceedings of the 13th ACM Conference on Computer and Communications Security, CCS 2006, Alexandria, VA, USA, Ioctober 30 - November 3, 2006. ACM, 2006.](/papers/基于属性的密码/Attribute-Based%20Encryption%20for%20Fine-Grained%20Access%20Control%20of%20Encrypted%20Data.pdf)
 
-[冯登国, 陈成. 属性密码学研究[J]. 密码学报, 2014(01):10-21.](https://github.com/XINKINGBO-1206/papernote/blob/main/papers/%e5%af%86%e7%a0%81%e5%ad%a6%e3%80%81%e7%ae%97%e6%b3%95%e4%b8%8e%e5%a4%8d%e6%9d%82%e6%80%a7/%e5%b1%9e%e6%80%a7%e5%af%86%e7%a0%81%e5%ad%a6%e7%a0%94%e7%a9%b6.pdf)
+[冯登国, 陈成. 属性密码学研究[J]. 密码学报, 2014(01):10-21.](/papers/基于属性的密码/%e5%b1%9e%e6%80%a7%e5%af%86%e7%a0%81%e5%ad%a6%e7%a0%94%e7%a9%b6.pdf)
 
-[Sahai A , Seyalioglu H , Waters B . Dynamic Credentials and Ciphertext Delegation for Attribute-Based Encryption[C]// Annual Cryptology Conference. Springer, Berlin, Heidelberg, 2012.](https://github.com/XINKINGBO-1206/papernote/blob/main/papers/%e5%af%86%e7%a0%81%e5%ad%a6%e3%80%81%e7%ae%97%e6%b3%95%e4%b8%8e%e5%a4%8d%e6%9d%82%e6%80%a7/Dynamic%20Credentials%20and%20Ciphertext%20Delegation%20for%20Attribute-Based%20Encryption.pdf)
+[Sahai A , Seyalioglu H , Waters B . Dynamic Credentials and Ciphertext Delegation for Attribute-Based Encryption[C]// Annual Cryptology Conference. Springer, Berlin, Heidelberg, 2012.](/papers/基于属性的密码/Dynamic%20Credentials%20and%20Ciphertext%20Delegation%20for%20Attribute-Based%20Encryption.pdf)
 
-[Lewko A , Waters B . Decentralizing Attribute-Based Encryption[C]// Annual International Conference on the Theory and Applications of Cryptographic Techniques. Springer, Berlin, Heidelberg, 2011.](https://github.com/XINKINGBO-1206/papernote/blob/main/papers/%e5%af%86%e7%a0%81%e5%ad%a6%e3%80%81%e7%ae%97%e6%b3%95%e4%b8%8e%e5%a4%8d%e6%9d%82%e6%80%a7/Decentralizing%20Attribute-Based%20Encryption.pdf)
+[Lewko A , Waters B . Decentralizing Attribute-Based Encryption[C]// Annual International Conference on the Theory and Applications of Cryptographic Techniques. Springer, Berlin, Heidelberg, 2011.](/papers/基于属性的密码/Decentralizing%20Attribute-Based%20Encryption.pdf)
 
-[Ding S ,  Zhao Y ,  Liu Y . Efficient Traceable Attribute-Based Signature[C]// IEEE International Conference on Trust. IEEE, 2015.](https://github.com/XINKINGBO-1206/papernote/blob/main/papers/%e5%af%86%e7%a0%81%e5%ad%a6%e3%80%81%e7%ae%97%e6%b3%95%e4%b8%8e%e5%a4%8d%e6%9d%82%e6%80%a7/Efficient%20Traceable%20Attribute-Based%20Signature.pdf)
+[Ding S ,  Zhao Y ,  Liu Y . Efficient Traceable Attribute-Based Signature[C]// IEEE International Conference on Trust. IEEE, 2015.](/papers/基于属性的密码/Efficient%20Traceable%20Attribute-Based%20Signature.pdf)
 
 ## 二、零知识证明
 
@@ -64,3 +64,7 @@
 ## 八、区块链的扩展性
 
 [Towards Scaling Blockchain Systems via Sharding](/papers/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%89%A9%E5%B1%95%E6%80%A7/Towards%20Scaling%20Blockchain%20Systems%20via%20Sharding.pdf)
+
+## 九、算法与计算复杂性
+
+[Introduction to Introduction to Theoretical Computer Science](/notes/算法与计算复杂性/Introduction to Theoretical Computer Science.pdf)
