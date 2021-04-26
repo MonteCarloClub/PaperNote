@@ -67,4 +67,5 @@
 
 ## 九、算法与计算复杂性
 
-[Introduction to Introduction to Theoretical Computer Science](/notes/算法与计算复杂性/Introduction to Theoretical Computer Science.pdf)
+[Introduction to Theoretical Computer Science](/notes/算法与计算复杂性/Introduction%20to%20Theoretical%20Computer%20Science.pdf)
+
