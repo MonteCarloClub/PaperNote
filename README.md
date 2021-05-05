@@ -62,3 +62,5 @@
 
 [Introduction to Theoretical Computer Science](/notes/算法与计算复杂性/Introduction%20to%20Theoretical%20Computer%20Science.pdf)
 
+## 九、真实世界网络
+[Xiao, Yunpeng & Yang, Qiufan & Sang, Chunyan & Liu, Yanbing. (2020). Rumor Diffusion Model Based on Representation Learning and Anti-Rumor. IEEE Transactions on Network and Service Management. PP. 1-1. 10.1109/TNSM.2020.2994141. ](https://github.com/XINKINGBO-1206/PaperNote/blob/main/papers/%E7%9C%9F%E5%AE%9E%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C/Rumor_Diffusion_Model_Based_on_Representation_Learning_and_Anti-Rumor.pdf)
