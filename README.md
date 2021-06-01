@@ -64,3 +64,7 @@
 
 ## 九、真实世界网络
 [Xiao, Yunpeng & Yang, Qiufan & Sang, Chunyan & Liu, Yanbing. (2020). Rumor Diffusion Model Based on Representation Learning and Anti-Rumor. IEEE Transactions on Network and Service Management. PP. 1-1. 10.1109/TNSM.2020.2994141. ](https://github.com/XINKINGBO-1206/PaperNote/blob/main/papers/%E7%9C%9F%E5%AE%9E%E4%B8%96%E7%95%8C%E7%BD%91%E7%BB%9C/Rumor_Diffusion_Model_Based_on_Representation_Learning_and_Anti-Rumor.pdf)
+
+## 十、密码分析(Cryptanalysis)
+[H M. A TUTORIAL ON LINEAR AND DIFFERENTIAL CRYPTANALYSIS[J]. Cryptologia, 2002, 26(3):189–221. DOI: 10.1080/0161-110291890885.](https://www.tandfonline.com/doi/abs/10.1080/0161-110291890885)
+[Benamira, David Gerault, Thomas Peyrin, et al. A Deeper Look at Machine Learning-Based Cryptanalysis, 2021.](https://eprint.iacr.org/2021/287)
