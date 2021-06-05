@@ -58,6 +58,8 @@
 
 [Towards Scaling Blockchain Systems via Sharding](/papers/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%89%A9%E5%B1%95%E6%80%A7/Towards%20Scaling%20Blockchain%20Systems%20via%20Sharding.pdf)
 
+[D. Deuber, B. Magri and S. A. K. Thyagarajan, "Redactable Blockchain in the Permissionless Setting," 2019 IEEE Symposium on Security and Privacy (SP), 2019, pp. 124-138, doi: 10.1109/SP.2019.00039.](/papers/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8B%93%E5%B1%95%E6%80%A7/Redactable%20Blockchain%20in%20the%20Permissionless%20Setting.pdf)
+
 ## 八、算法与计算复杂性
 
 [Introduction to Theoretical Computer Science](/notes/算法与计算复杂性/Introduction%20to%20Theoretical%20Computer%20Science.pdf)
