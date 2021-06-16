@@ -74,3 +74,11 @@
 
 ## 十一、数据库
 [Defferrard M ,  Benzi K ,  Vandergheynst P , et al. FMA: A Dataset For Music Analysis[J].  2016.](https://github.com/MonteCarloClub/PaperNote/blob/main/papers/%E6%95%B0%E6%8D%AE%E5%BA%93/FMA_%20A%20DATASET%20FOR%20MUSIC%20ANALYSIS.pdf)
+
+## 十二、比特币+签名(Signatures)
+[Schnorr, C.P. Efficient signature generation by smart cards. J. Cryptology 4, 161–174 (1991). https://doi.org/10.1007/BF00196725](/papers/%E7%AD%BE%E5%90%8D%E7%AE%97%E6%B3%95+%E6%AF%94%E7%89%B9%E5%B8%81/Efficient%20Signature%20Generation%20by%20Smart%20Cards.pdf)
+
+[Johnson, D., Menezes, A. & Vanstone, S. The Elliptic Curve Digital Signature Algorithm (ECDSA). IJIS 1, 36–63 (2001). https://doi.org/10.1007/s102070100002](/papers/%E7%AD%BE%E5%90%8D%E7%AE%97%E6%B3%95+%E6%AF%94%E7%89%B9%E5%B8%81/The%20Elliptic%20Curve%20Digital%20Signature%20Algorithm%20(ECDSA).pdf)
+
+[Maxwell, G., Poelstra, A., Seurin, Y. et al. Simple Schnorr multi-signatures with applications to Bitcoin. Des. Codes Cryptogr. 87, 2139–2164 (2019). https://doi.org/10.1007/s10623-019-00608-x](/papers/%E7%AD%BE%E5%90%8D%E7%AE%97%E6%B3%95+%E6%AF%94%E7%89%B9%E5%B8%81/Simple%20Schnorr%20Multi-Signatures%20with%20Applications%20to%20Bitcoin.pdf)
+
