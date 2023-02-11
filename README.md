@@ -35,6 +35,10 @@
 
 [Goldreich O . A Short Tutorial of Zero-Knowledge[J]. Cryptology and Information Security Series, 2013, 10:28-60.](https://github.com/MonteCarloClub/PaperNote/blob/main/papers/%E9%9B%B6%E7%9F%A5%E8%AF%86%E8%AF%81%E6%98%8E/A%20Short%20Tutorial%20of%20Zero-%20Knowledge.pdf)
 
+[Interactive Proofs (Sum-check Protocol and Arithmetization)](/notes/零知识证明/Interactive-Proofs.pdf)
+
+[How to Build SNARKs](/notes/零知识证明/How-to-Build-SNARKs.pdf)
+
 ## 三、区块链+物联网
 
 [Ourad A Z , Belgacem B , Salah K . Using Blockchain for IOT Access Control and Authentication Management[J]. 2018.](https://github.com/MonteCarloClub/PaperNote/blob/main/papers/%E5%8C%BA%E5%9D%97%E9%93%BE+%E7%89%A9%E8%81%94%E7%BD%91/Using%20Blockchain%20for%20IOT%20Access%20Control%20and%20Authentication%20Management.pdf)
@@ -86,3 +90,6 @@
 
 [MARAM D, MALVAI H, ZHANG F, et al. Candid: Can-do decentralized identity with legacy compatibility, sybil-resistance, and accountability[M]. Institute of Electrical and Electronics Engineers Inc., 2021.](%2Fpapers%2F%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E8%BA%AB%E4%BB%BD%2FCanDID_Can-Do_Decentralized_Identity_with_Legacy_Compatibility_Sybil-Resistance_and_Accountability.pdf)
 
+## 十四、现代密码学：原理与协议
+
+[Chapter 1 & 2: Introduction & Perfectly Secret Encryption](/notes/现代密码学/CH1-2.pdf)
