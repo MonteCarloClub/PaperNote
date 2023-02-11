@@ -35,6 +35,10 @@
 
 [Goldreich O . A Short Tutorial of Zero-Knowledge[J]. Cryptology and Information Security Series, 2013, 10:28-60.](https://github.com/MonteCarloClub/PaperNote/blob/main/papers/%E9%9B%B6%E7%9F%A5%E8%AF%86%E8%AF%81%E6%98%8E/A%20Short%20Tutorial%20of%20Zero-%20Knowledge.pdf)
 
+[Interactive Proofs (Sum-check Protocol and Arithmetization)](/notes/零知识证明/Interactive-Proofs.pdf)
+
+[How to Build SNARKs](/notes/零知识证明/How-to-Build-SNARKs.pdf)
+
 ## 三、区块链+物联网
 
 [Ourad A Z , Belgacem B , Salah K . Using Blockchain for IOT Access Control and Authentication Management[J]. 2018.](https://github.com/MonteCarloClub/PaperNote/blob/main/papers/%E5%8C%BA%E5%9D%97%E9%93%BE+%E7%89%A9%E8%81%94%E7%BD%91/Using%20Blockchain%20for%20IOT%20Access%20Control%20and%20Authentication%20Management.pdf)
@@ -81,4 +85,8 @@
 [Johnson, D., Menezes, A. & Vanstone, S. The Elliptic Curve Digital Signature Algorithm (ECDSA). IJIS 1, 36–63 (2001). https://doi.org/10.1007/s102070100002](/papers/%E7%AD%BE%E5%90%8D%E7%AE%97%E6%B3%95+%E6%AF%94%E7%89%B9%E5%B8%81/The%20Elliptic%20Curve%20Digital%20Signature%20Algorithm%20(ECDSA).pdf)
 
 [Maxwell, G., Poelstra, A., Seurin, Y. et al. Simple Schnorr multi-signatures with applications to Bitcoin. Des. Codes Cryptogr. 87, 2139–2164 (2019). https://doi.org/10.1007/s10623-019-00608-x](/papers/%E7%AD%BE%E5%90%8D%E7%AE%97%E6%B3%95+%E6%AF%94%E7%89%B9%E5%B8%81/Simple%20Schnorr%20Multi-Signatures%20with%20Applications%20to%20Bitcoin.pdf)
+
+## 十三、现代密码学：原理与协议
+
+[Chapter 1 & 2: Introduction & Perfectly Secret Encryption](/notes/现代密码学/CH1-2.pdf)
 
