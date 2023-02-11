@@ -79,14 +79,17 @@
 ## 十一、数据库
 [Defferrard M ,  Benzi K ,  Vandergheynst P , et al. FMA: A Dataset For Music Analysis[J].  2016.](https://github.com/MonteCarloClub/PaperNote/blob/main/papers/%E6%95%B0%E6%8D%AE%E5%BA%93/FMA_%20A%20DATASET%20FOR%20MUSIC%20ANALYSIS.pdf)
 
-## 十二、比特币+签名(Signatures)
+## 十二、比特币+签名
 [Schnorr, C.P. Efficient signature generation by smart cards. J. Cryptology 4, 161–174 (1991). https://doi.org/10.1007/BF00196725](/papers/%E7%AD%BE%E5%90%8D%E7%AE%97%E6%B3%95+%E6%AF%94%E7%89%B9%E5%B8%81/Efficient%20Signature%20Generation%20by%20Smart%20Cards.pdf)
 
 [Johnson, D., Menezes, A. & Vanstone, S. The Elliptic Curve Digital Signature Algorithm (ECDSA). IJIS 1, 36–63 (2001). https://doi.org/10.1007/s102070100002](/papers/%E7%AD%BE%E5%90%8D%E7%AE%97%E6%B3%95+%E6%AF%94%E7%89%B9%E5%B8%81/The%20Elliptic%20Curve%20Digital%20Signature%20Algorithm%20(ECDSA).pdf)
 
 [Maxwell, G., Poelstra, A., Seurin, Y. et al. Simple Schnorr multi-signatures with applications to Bitcoin. Des. Codes Cryptogr. 87, 2139–2164 (2019). https://doi.org/10.1007/s10623-019-00608-x](/papers/%E7%AD%BE%E5%90%8D%E7%AE%97%E6%B3%95+%E6%AF%94%E7%89%B9%E5%B8%81/Simple%20Schnorr%20Multi-Signatures%20with%20Applications%20to%20Bitcoin.pdf)
 
-## 十三、现代密码学：原理与协议
+## 十三、去中心化身份
+
+[MARAM D, MALVAI H, ZHANG F, et al. Candid: Can-do decentralized identity with legacy compatibility, sybil-resistance, and accountability[M]. Institute of Electrical and Electronics Engineers Inc., 2021.](%2Fpapers%2F%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E8%BA%AB%E4%BB%BD%2FCanDID_Can-Do_Decentralized_Identity_with_Legacy_Compatibility_Sybil-Resistance_and_Accountability.pdf)
+
+## 十四、现代密码学：原理与协议
 
 [Chapter 1 & 2: Introduction & Perfectly Secret Encryption](/notes/现代密码学/CH1-2.pdf)
-
